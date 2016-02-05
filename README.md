@@ -6,9 +6,9 @@
 * Estructura de directorios de una aplicación AngularJS
 * Hola Mundo con angular
 * Modelo
-  * ng-model
+  * Ng-model
 * Controlador
-  * ng-controller
+  * Ng-controller
 * Directivas
   * Directivas nativas
   * Directivas propias
@@ -30,9 +30,9 @@
 * Angular ui-grid
   * Paginación
   * Filtros
-  * cellClass
-  * headerCellClass
-  * plantillas personalizadas
+  * CellClass
+  * HeaderCellClass
+  * Plantillas personalizadas
 * ui-bootstrap
   * Modal
   * Popover
