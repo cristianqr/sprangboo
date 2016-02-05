@@ -33,7 +33,7 @@
   * CellClass
   * HeaderCellClass
   * Plantillas personalizadas
-* ui-bootstrap
+* Ui-bootstrap
   * Modal
   * Popover
   * Tooltip
