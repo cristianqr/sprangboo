@@ -39,4 +39,4 @@
   * Tooltip
   * Tabs
   * Accordion
-* CRUD AngularJS + Bootstrap + SpringMVC + Mysql
+* CRUD AngularJS + Bootstrap + SpringMVC + Oracle
